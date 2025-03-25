@@ -16,6 +16,10 @@ name = "hello"
 crate-type = ["cdylib"]
 
 [[example]]
+name = "calc"
+crate-type = ["cdylib"]
+
+[[example]]
 name = "string"
 crate-type = ["cdylib"]
 
